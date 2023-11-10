@@ -1,5 +1,5 @@
 # ScheduleEsp8266
-A ESP8266 code to create a server that generate a web page wheew you can select a hour for a day to enable a device.
+A ESP8266 code to create a server that generate a web page where you can select a hour for a day to enable a device.
 
 Basically this application uses the EEPROM emulated by the ESP8266 to save the information of what time to get on.
 
